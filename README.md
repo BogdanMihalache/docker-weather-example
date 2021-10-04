@@ -1,2 +1,2 @@
-# docker-example
-This is an example for git.
+# docker-weather-example
+This is an example that retrieves from the Internet the current temperature in Delft
